@@ -1,0 +1,34 @@
+Executive Recommendation: Multi-Source Market Expansion Analysis
+
+Recommendation: Expand into Surat first, followed by Coimbatore as the second city.
+
+    Why:
+
+      Surat and Coimbatore lead the composite ranking by a clear margin — scoring 91.19 and 81.93 out of 100 respectively, well ahead of the next 
+      candidate (Nagpur, 80.11). Both cities combine three things a D2C fashion/apparel brand needs simultaneously: a large and rapidly urbanizing
+      population (Surat:6.0M,  79.6% urban; Coimbatore: 3.5M, 75.7% urban), strong purchasing power (Surat's per-capita NSDP of ₹2.72L and Coimbatore's
+      ₹3.62L — the highest in the candidate set), and critically, low existing retail saturation (fewer organized malls per capita than any other city 
+      studied). That last point matters most: Lucknow and Jaipur have comparable population and income figures but are already retail-dense, meaning a new
+      entrant would face steeper competition for the   same customer base.
+
+Runner-up: Nagpur (80.11) is a strong third candidate and worth flagging as the next expansion wave — it scores well across all four criteria and could be revisited once Surat and Coimbatore are established.
+
+Cities not recommended at this stage: Lucknow (49.06) and Jaipur (42.23) score moderately but are held back by high existing retail saturation. Indore (6.84) ranks lowest, driven primarily by a low population score — this is likely partly a data artifact (see caveat below) rather than a true reflection of market size, so it shouldn't be fully written off without further validation.
+
+Methodology in brief: 
+
+     Each city was scored on 4 weighted criteria — market size (30%), purchasing power (25%), urbanization (20%), and competitive saturation (25%,   
+     inverted) — using Census 2011 district data, RBI per-capita NSDP figures, and a manually compiled organized-retail (mall) count normalized by 
+     population. All metrics were normalized to a 0-100 scale before weighting.
+
+Key caveats:
+
+    - Gujarat's 2024-25 and 2023-24 NSDP figures were unavailable in RBI's data; the 2022-23 value was used as the latest available proxy for Surat.
+  
+    - Population figures are computed from Census Village + Town level rows only (Ward-level rows were excluded to avoid double-counting).
+
+    - Indore's Census district population appears lower than commonly cited urban-agglomeration figures, possibly due to district-boundary definitions in  
+      the source data — flagged for further validation rather than treated as final.
+
+    - Competitive saturation was proxied via a manually compiled organized-retail count (Wikipedia + cross-checks) rather than a government dataset, since 
+      no clean district-level retail-density source exists publicly.
